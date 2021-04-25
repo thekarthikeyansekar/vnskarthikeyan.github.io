@@ -1,0 +1,1 @@
+Main banner image : 500*333 pixels
